@@ -24,28 +24,25 @@
 
 ### 📊 Статистика GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=notforgiving&show_icons=true&theme=tokyonight&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notforgiving&layout=compact&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=tokyonight&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"/>
+  <img src="https://streak-stats.demolab.com?user=notforgiving&theme=tokyonight&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"/>
 </p>
 
 ---
 
 ### 🌐 Связаться со мной:
 <p align="center">
-  <a href="https://t.me/username">
+  <a href="https://t.me/flesh_vzhuh">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=purple"/>
-  </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:self_contained@list.ru">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=FFD43B"/>
   </a>
 </p>
