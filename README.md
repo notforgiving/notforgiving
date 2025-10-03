@@ -24,6 +24,13 @@
 
 ---
 
+### 🚀 Лучшие проекты:
+<p align="center">
+  <a href="https://github.com/notforgiving/Berk.LTD_v2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=проект1&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+  </a>
+</p>
+
 ### 📊 Статистика GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notforgiving&show_icons=true&theme=tokyonight&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
