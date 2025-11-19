@@ -56,9 +56,8 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=notforgiving&theme=tokyonight&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notforgiving&theme=tokyonight&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"/>
 </p>
-
 ---
 
 ### 🌐 Связаться со мной:
