@@ -52,10 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notforgiving&layout=compact&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
 </p>
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=notforgiving&theme=tokyonight&hide_border=true"/>
-</p>
 
 ### 🌐 Связаться со мной:
 <p align="center">
