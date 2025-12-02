@@ -27,29 +27,29 @@
 ### 🚀 Лучшие проекты:
 <p align="center">
   <a href="https://github.com/notforgiving/QuantiTink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=quanti-tink&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=quanti-tink&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
   <a href="https://github.com/notforgiving/Berk.LTD_v2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=Berk.LTD_v2.0&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=Berk.LTD_v2.0&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
   <a href="https://github.com/notforgiving/AdvantageDigitalAgency">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=AdvantageDigitalAgency&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=AdvantageDigitalAgency&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
   <a href="https://github.com/notforgiving/GreenVit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=GreenVit&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=GreenVit&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
   <a href="https://github.com/notforgiving/arbitrage-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=arbitrage-scanner&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=arbitrage-scanner&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
   <a href="https://github.com/notforgiving/kenzoPreParty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notforgiving&repo=kenzoPreParty&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
+    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=notforgiving&repo=kenzoPreParty&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27"/>
   </a>
 </p>
 
 ### 📊 Статистика GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notforgiving&show_icons=true&theme=tokyonight&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notforgiving&layout=compact&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
+  <img src="https://github-readme-stats.zcy.dev/api?username=notforgiving&show_icons=true&theme=tokyonight&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=notforgiving&layout=compact&theme=tokyonight&title_color=FFD43B&text_color=ffffff&bg_color=1a1b27" height="180px"/>
 </p>
 
 
